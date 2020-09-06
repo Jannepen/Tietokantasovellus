@@ -15,4 +15,6 @@ Sovelluksen päätoiminnot ovat:
 
 -Sovelluksen sisällä pystyy selata ravintoloita, sekä niille annettuja arvioita.
 
+-Ravintoloita voi myös etsiä arvosanojen sekä lisätietojen perusteella.
+
 -Sovellus sisältää myös etsi ravintoloita -toiminnon, jonka avulla voi etsiä ravintoloita alueen mukaan, ja ne näkyvät kartalla.
